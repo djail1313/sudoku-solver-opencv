@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1482764561 source:d:\kuliah\semester 3\ppcd\project\sudoku\main.cpp
+	<iostream>
+	<cv.h>
+	<highgui.h>
+	<ml.h>
+	<fstream>
+	"knnclassification.h"
+
+1482753683 source:d:\kuliah\semester 3\ppcd\project\sudoku\digitclassification.cpp
+	"digitclassification.h"
+
+1482764594 d:\kuliah\semester 3\ppcd\project\sudoku\digitclassification.h
+	<cv.h>
+	<highgui.h>
+	<ml.h>
+	<fstream>
+
+1482764545 source:d:\kuliah\semester 3\ppcd\project\sudoku\knnclassification.cpp
+	"knnclassification.h"
+	<dirent.h>
+	<string>
+
+1482764589 d:\kuliah\semester 3\ppcd\project\sudoku\knnclassification.h
+	"digitclassification.h"
+
+1480308577 source:z:\ppcd\sudoku\digitclassification.cpp
+	"digitclassification.h"
+
+1480308577 z:\ppcd\sudoku\digitclassification.h
+	<cv.h>
+	<highgui.h>
+	<ml.h>
+	<fstream>
+
+1480308577 source:z:\ppcd\sudoku\knnclassification.cpp
+	"knnclassification.h"
+
+1480308577 z:\ppcd\sudoku\knnclassification.h
+	"digitclassification.h"
+
+1480480660 source:z:\ppcd\sudoku\main.cpp
+	<iostream>
+	<cv.h>
+	<highgui.h>
+	<ml.h>
+	<fstream>
+	"knnclassification.h"
+
+1481104484 source:z:\ppcd\sudoku\coretan.cpp
+	<iostream>
+	<cv.h>
+	<highgui.h>
+
+1482761182 source:d:\kuliah\semester 3\ppcd\project\sudoku\coretan.cpp
+	<iostream>
+	<cv.h>
+	<highgui.h>
+	<dirent.h>
+
+1482774668 source:d:\kuliah\semester 3\ppcd\project\sudoku\src\sudoku.cpp
+	"Sudoku.h"
+
+1482772511 d:\kuliah\semester 3\ppcd\project\sudoku\include\sudoku.h
+	<cv.h>
+	<highgui.h>
+	"../knnclassification.h"
+
+1482774543 source:d:\kuliah\semester 3\ppcd\project\sudoku\test.cpp
+	<iostream>
+	<cv.h>
+	<highgui.h>
+	<ml.h>
+	<fstream>
+	"Sudoku.h"
+
